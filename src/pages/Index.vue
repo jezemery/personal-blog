@@ -14,11 +14,6 @@ query Posts {
     edges {
       node {
         id
-        date (format: "YYYY")
-        title
-        categories
-        thumbnail (quality: 90)
-        path
       }
     }
   },
