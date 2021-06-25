@@ -7,13 +7,6 @@ sections:
 - type: heading
   label: Heading
 - type: directory
-  path: projects
-  label: Projects
-  create: documents
-  match: "**/*.md"
-  templates:
-  - project
-- type: directory
   path: journal
   label: Journal
   create: documents
