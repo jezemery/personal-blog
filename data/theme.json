@@ -1,8 +1,8 @@
 {
   "footer": "Copyright &copy; 2021",
-  "dark_mode": false,
-  "site_name": "Jez Emery - Technical Consulting UK",
-  "site_description": "Jez Emery - Technical Consulting UK",
-  "hero_title": "Jez Emery<br>Technical Consulting",
-  "hero_subtitle": "Hi there, I'm an independent Technical Consultant &amp; Software Developer focused on digital development for brands and companies based around the UK."
+  "dark_mode": true,
+  "site_name": "Jez Emery",
+  "site_description": "Jez Emery",
+  "hero_title": "Jez Emery",
+  "hero_subtitle": "Hi there, I'm an independent consultant &amp; software developer. I build stuff for companies like, KFC, BT, Motor Sport Magazine &amp; more."
 }
