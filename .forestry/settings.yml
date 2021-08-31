@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: Author
+  create: all
+  match: "**/*"
+  templates:
+  - author
 - type: heading
   label: Heading
 - type: directory
