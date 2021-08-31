@@ -37,3 +37,4 @@ fields:
   default: Nichlas W. Andersen
 pages:
 - journal/adding-a-custom-post-type-to-wordpress-using-nanosoup-nemesis.md
+- journal/how-to-automatically-flush-permalinks-in-wordpress.md
