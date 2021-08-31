@@ -8,6 +8,6 @@ bio: |-
   use that knowledge to ensure the best system possible is planned and developed
   from the start of a project.
 avatar: "/uploads/2809847.jpeg"
-twitter: sausage
+twitter: twitter.com/sausajez
 
 ---
