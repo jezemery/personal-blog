@@ -29,12 +29,12 @@ fields:
     source:
       type: simple
       section: authors
-      file: data/authors/nichlas-w-andersen.json
+      file: data/authors/jez-emery.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Jez R. Emery
   label: Author
-  default: Nichlas W. Andersen
+  default: Jez R. Emery
 pages:
 - journal/adding-a-custom-post-type-to-wordpress-using-nanosoup-nemesis.md
 - journal/how-to-automatically-flush-permalinks-in-wordpress.md
