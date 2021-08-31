@@ -1,6 +1,6 @@
 ---
 date: 2021-08-31
-author: Nichlas W. Andersen
+author: Jez R. Emery
 title: How to automatically flush permalinks in Wordpress
 excerpt: This will show you how to automatically flush permalinks when you enable
   a Wordpress plugin for the first time.
