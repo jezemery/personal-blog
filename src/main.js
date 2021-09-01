@@ -1,7 +1,6 @@
 import DefaultLayout from "~/layouts/Default.vue";
 import settings from "../data/theme.json";
-import 'prismjs/themes/prism.css'
-import "@/assets/code-highlight.css"
+import 'prismjs/themes/prism-okaidia.css';
 
 export default function(Vue, { head }) {
   Vue.component("Layout", DefaultLayout);
