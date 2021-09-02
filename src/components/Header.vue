@@ -3,9 +3,7 @@
     <div class="container">
       <div class="left">
         <g-link :to="{ name: 'home' }" class="home-link">
-          <img :alt="settings.site_name"
-               class="logo"
-               src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAADG0lEQVRoge2YzWsTQRjGf22jokbxCxQpFIzt2Z5FoZaiUHJTY8H/oH+AQvXeg6I9eO2xUcGqeNGLNw8FpUSxV6ntwY9aqvbDtiH1MJNm8mZ2d3azu0XMAwM7mXee53l33pnsLrTQwv+NNp+x30DW6B8FFn3is8AF4CLQC5wAjuuxr8AXYBp4BbwGln24jgA/jP6K8OKEErBltGsecV3AA2BNxPu1NT2ny4OzIOJLYc0DjAmSN0CHMb4buAOshzAu27rm2GPwZrSWGTcWJYEzFsGXQJ8ee9uEcdneocquT2vI8d4oCQAUQxr5CIyi9kIO2KdbTv82qmPCcD6Mah7gIGrjBYmUgHwI3jyNe8zWprWHpnAA/5W4j6rbsMjouV68Ra0dGyYsIsMx8A5beIsx8NbhFPBHiNyNkf+e4N4AumPkZ1wIvKf+SG0WHcAHoTEeF3kW9a9skg/GRW4gLzSWiWkPDAnimThIPTAjtIaCJrQ7kJ4V/ReiPwjM6+ayMn7xkltqR8IU9XelX4zPGWPzDnx+8f1CayqIzGUFTor+Z9HfMq4rDnx+8bMB2pGwQv1dkRvrkhae1ddB8IvfL7RWI7s2UBGkfu8QqesFlVAhiCAFeL2HBKIAbFJ/N8okn9CGRTPwOJW4gt389dhseuNys9q2O7+J+1Iuiblm++nIcdXiwWklmjUP8MQngccheLyS8PQSh3mAHtQXBWl+AegMyeWcRLeH+UJIwSo6gUeoclrS12HNV+GVRI8ZlAG+i6CbFrKmX+8cYNO4QeNqZqD2P1AGnopJOeM6q0k+kfwxOod6+T9k/HZaxEyiPNdhgMYsD6OMmzWd1j/xL1Qix4BvwtuAbaKtjFZp3IxpP0pIDwvArmqw+ShhK6O9STp1hPQwidrUVsgysrW0V0A2a/lUkaGx3lwTCBKOg2f79KlCPo2Wgef6ehG4pSfuJG5T+6z/DMvpI3EOGKF2Hrs+nye1Am2ol6gR4LwMdqnniohrx74qMi4IrjxecduDSaFdG6m2REoxyQRSQZSvyi5fHlLj+edXoJVACy20sLP4CxgR1IIZt9mkAAAAAElFTkSuQmCC"/>
+          <img :alt="settings.site_name" class="logo" src="../../static/logo.svg"/>
           Hiohzo
         </g-link>
       </div>
