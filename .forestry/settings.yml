@@ -7,19 +7,23 @@ sections:
 - type: heading
   label: Heading
 - type: directory
+  path: notes
+  label: Notes
+  create: all
+  match: "**/*.md"
+  templates:
+  - note
+- type: document
+  path: notes/general.md
+  label: General
+  match: "**/*"
+- type: directory
   path: journal
   label: Journal
   create: documents
   match: "**/*.md"
   templates:
   - journal
-- type: directory
-  path: note
-  label: Note
-  create: documents
-  match: "**/*.md"
-  templates:
-  - note
 - type: document
   path: data/theme.json
   label: Theme config
