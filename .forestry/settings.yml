@@ -13,9 +13,6 @@ sections:
   match: "**/*.md"
   templates:
   - note
-- type: document
-  path: notes/general.md
-  label: General
 - type: directory
   path: journal
   label: Journal
