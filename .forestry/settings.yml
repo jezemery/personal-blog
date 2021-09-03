@@ -16,7 +16,6 @@ sections:
 - type: document
   path: notes/general.md
   label: General
-  match: "**/*"
 - type: directory
   path: journal
   label: Journal
