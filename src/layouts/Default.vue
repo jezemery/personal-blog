@@ -29,7 +29,7 @@ body {
   --color-base-1: rgb(243, 243, 243);
   --color-contrast: rgb(0, 0, 0);
   --color-contrast-1: rgb(43, 43, 43);
-  font-family: "", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "Input Mono Condensed", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   margin: 0;
   padding: 0;
   font-size: 16px;
