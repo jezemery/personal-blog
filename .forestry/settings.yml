@@ -13,6 +13,13 @@ sections:
   match: "**/*.md"
   templates:
   - journal
+- type: directory
+  path: note
+  label: Note
+  create: documents
+  match: "**/*.md"
+  templates:
+  - note
 - type: document
   path: data/theme.json
   label: Theme config
