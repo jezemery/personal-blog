@@ -7,6 +7,10 @@ module.exports = {
     host: "0.0.0.0",
     titleTemplate: "%s",
     siteDescription: "Technical Consultant",
+    icon: {
+        favicon: './src/android-chrome-192x192.png',
+        sizes: [16, 32, 96, 192]
+    },
     plugins: [
         {
             use: "@gridsome/source-filesystem",
