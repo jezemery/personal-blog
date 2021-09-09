@@ -5,6 +5,11 @@ title: General Stuff
 excerpt: Useful Notes, Articles, Links
 
 ---
+## Royalty free images
+
+* [Pixabay](https://pixabay.com "Pixabay")
+* [Unsplash](https://unsplash.com "Unsplash")
+
 ## Wallpaper
 
 * [Pling](https://www.pling.com)
