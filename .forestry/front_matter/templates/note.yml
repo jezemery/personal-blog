@@ -35,3 +35,5 @@ fields:
     - Jez R. Emery
   label: Author
   default: Jez R. Emery
+pages:
+- notes/web-tech.md
