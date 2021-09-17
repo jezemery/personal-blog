@@ -13,6 +13,8 @@ Anything design related that I want to remember/ reference back to.
 
 [SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/ "https://www.smashingmagazine.com/2021/03/svg-generators/")
 
+[DrawingBots](https://drawingbots.net/knowledge/tools "https://drawingbots.net/knowledge/tools")
+
 ### Shadows
 
 [Smooth Shadow](https://shadows.brumm.af/ "https://shadows.brumm.af/")
