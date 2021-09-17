@@ -5,9 +5,13 @@ title: Web Tech
 excerpt: Links associated with web technologies, css, php, node, React, etc...
 
 ---
-## CSS
+## Design
 
-Anything CSS related that I want to remember/ reference back to.
+Anything design related that I want to remember/ reference back to.
+
+### SVG
+
+[SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/ "https://www.smashingmagazine.com/2021/03/svg-generators/")
 
 ### Shadows
 
