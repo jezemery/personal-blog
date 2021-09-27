@@ -5,6 +5,11 @@ title: Web Tech
 excerpt: Links associated with web technologies, css, php, node, React, etc...
 
 ---
+## Hosting / Ops
+
+### Nginx
+[nginx playground](https://nginx-playground.wizardzines.com/)
+
 ## Design
 
 Anything design related that I want to remember/ reference back to.
