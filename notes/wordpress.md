@@ -14,3 +14,4 @@ excerpt: Useful Wordpress Notes & Articles
 
 ## Decentralisation
 * [S3 Uploads](https://github.com/humanmade/S3-Uploads)
+* [HyperDB](https://codex.wordpress.org/HyperDB)
