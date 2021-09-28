@@ -11,3 +11,6 @@ excerpt: Useful Wordpress Notes & Articles
 * [Gutenberg Components: ServerSideRender](https://www.ibenic.com/gutenberg-components-server-side-render/)
 * [Custom Gutenberg Block](https://deliciousbrains.com/custom-gutenberg-block/)
 * [Gutenberg Wordpress](https://wp-gb.com/)
+
+## Decentralisation
+* [S3 Uploads](https://github.com/humanmade/S3-Uploads)
