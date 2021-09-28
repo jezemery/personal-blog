@@ -6,6 +6,8 @@ excerpt: Links associated with web technologies, css, php, node, React, etc...
 
 ---
 ## Hosting / Ops
+### Logging (ingestion)
+[Vector by DataDog](https://vector.dev/)
 
 ### Nginx
 [nginx playground](https://nginx-playground.wizardzines.com/)
