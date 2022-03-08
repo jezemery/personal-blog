@@ -4,7 +4,6 @@
       <div class="left">
         <g-link :to="{ name: 'home' }" class="home-link">
           <img :alt="settings.site_name" class="logo" src="../../static/logo.svg"/>
-          Hiohzo
         </g-link>
       </div>
       <nav class="nav right">
