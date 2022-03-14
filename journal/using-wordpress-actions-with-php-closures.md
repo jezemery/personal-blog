@@ -24,7 +24,7 @@ So how do we pass a custom parameter to this function call? Using Closures.
 
 ```php
 $param = 'something';
-add_action('enqueue_block_editor_assets', function() with ($param) {
+add_action('enqueue_block_editor_assets', function() use ($param) {
   $this->loadAdditionalEditorFiles($param);
 });
 ```
